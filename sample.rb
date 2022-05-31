@@ -6,4 +6,9 @@ class Sample
   def huga
     puts "huga"
   end
+
+  def sample
+    hoge
+    fuga
+  end
 end
