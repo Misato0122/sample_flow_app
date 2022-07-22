@@ -1,6 +1,6 @@
 class Animal
   def hogefuga
     puts "hogefufa"
-    puts "hotfix修正"
+    puts "hotfix"
   end
 end
