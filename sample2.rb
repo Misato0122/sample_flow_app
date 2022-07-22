@@ -3,5 +3,6 @@ class Animal
     puts "hogefufa"
     puts "hotfix"
     puts "hotfix3"
+    "hogehoge"
   end
 end
