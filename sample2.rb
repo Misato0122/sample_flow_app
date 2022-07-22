@@ -3,5 +3,6 @@ class Animal
     puts "hogefufa"
     puts "hotfix"
     puts "普通の修正"
+    "aaaaa"
   end
 end
