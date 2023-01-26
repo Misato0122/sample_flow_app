@@ -1,10 +1,10 @@
 class Animal
   def hogefuga
-    puts "hogefufa iwamoto help us!"
+    puts "hogefufa!"
     puts "hotfix"
     puts "普通の修正"
     "aaaaa"
     puts "hotfix3"
-    "hogehoge"
+    "hogehoge more test"
   end
 end
