@@ -6,6 +6,6 @@ class Animal
     "aaaaa"
     puts "hotfix3"
     "hogehoge more test"
-		"hotfix 0.9.1"
+		"hotfix 0.9.2"
   end
 end
